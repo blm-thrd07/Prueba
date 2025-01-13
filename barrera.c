@@ -5,6 +5,7 @@
 #include <unistd.h>
 
 // prgrama 
+// otro comentario
 
 sem_t barrera;
 pthread_mutex_t mutex; //=PTHREAD_MUTEX_INITIALIZER;
